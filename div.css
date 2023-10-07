@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bir{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-around;
+    background-color: darkmagenta;
+    }
+    .bir1{
+        width: 20%;
+        height: 30px;
+        background-color: darkred;
+        }
+     
+        .iki{
+        width: 100%;
+        height: 500px;
+        padding-top: 150px;
+        display: flex;
+        justify-content: space-around;
+        background-color: darkgoldenrod
+        }
+        .iki1{
+        width: 20%;
+        height: 180px;
+        background-color:rgb(69, 141, 209);
+        }
+        .iki2{
+        width: 20%;
+        height: 180px;
+        justify-content: space-around;
+        padding-top: 20px;
+        background-color: rgb(66, 141, 179);
+        }
+        .iki21{
+         width: 60%;
+         height: 60px;
+         margin-left: 60px;
+         background-color: darkred;
+         }               
+        .iki22{
+         width: 60%;
+         height: 60px;
+         margin-top: 20px;
+         margin-left: 60px;
+         background-color: darkred ;
+        }
+        .uc{
+        width: 100%;
+        height: 500px;
+        background-color: rgb(14, 184, 11)
+        }
+                .uc1{
+                width: 100%;
+                height: 120px;
+                display: flex;
+                margin-top: 40px;
+                justify-content: space-around;
+                }
+                .uc2{
+                width: 100%;
+                height: 120px;
+                margin-top: 40px;
+                display: flex;
+                justify-content: space-around;
+                }
+                .uc11{
+                width: 20%;
+                height: 120px;
+                margin-top: 100px;
+                background-color: rgb(165, 42, 42);
+                }
+                .uc21{
+                width: 20%;
+                margin-top: 120px;
+                height: 120px;
+                background-color: rgb(165, 42, 42);
+                }
+            .dord{
+             width: 100%;
+             height: 500px;
+             display: flex;
+             justify-content: space-around;
+             background-color: rgb(113, 134, 113)
+             }
+             .dord1{
+                width: 30%;
+                height: 220px;
+                margin-top: 130px;
+                background-color:rgb(69, 141, 209);
+             }
+             .dord2{
+                width: 20%;
+                height: 220px;
+                margin-top: 130px;
+                }
+                .dord21{
+                    width: 70%;
+                    height: 60px;
+                    margin-left: 60px;
+                    background-color: darkred ;
+                   }
+                   .dord22{
+                    width: 70%;
+                    height: 60px;
+                    margin-left: 60px;
+                    margin-top: 100px;
+                    background-color: darkred ;
+                   }
+                   .bes{
+                    width: 100%;
+                    height: 70px;
+                    display: flex;
+                    padding-top: 20px;
+                    justify-content: space-around;
+                    background-color: rgb(167, 77, 167);
+                    }
+                    .bes1{
+                    width: 20%;
+                    height: 30px;
+                    background-color: rgb(88, 149, 209);
+                    }
+                    .bes1{
+                    width: 20%;
+                    height: 30px;
+                    background-color: rgb(88, 149, 209);
+                    }
